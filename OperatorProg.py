@@ -1,4 +1,4 @@
-# Program to perform an operation on two number. Give input: an operator (+, -, *, /) and two number.
+# Program to perform an operation on two numbers. Give input: an operator (+, -, *, /) and two number.
 
 num1 = int(input('Enter 1st number: '))
 num2 = int(input('Enter 2nd number: '))
@@ -17,3 +17,6 @@ if operator == '*':
 
 if operator == '/':
     print('Division of ', num1, ' by ', num2, ' is ', num1 - num2)
+
+if operator not in ['+', '-', '*', '/']:
+    print('Invalid Choice')
