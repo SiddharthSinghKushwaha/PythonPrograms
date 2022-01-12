@@ -69,3 +69,10 @@ List of program:
     3. WAP to check whether a number is Armstrong number or not.
     4. WAP to print the largest and the smallest number in a list.
     5. WAP to check whether a substring is present or not in a given string.
+
+Day 9 [Date: 12-01-2022]
+
+List of program:
+    1. WAP to store and print 10 random numbers in a list between 100 and 200.
+    2. WAP to print the ASCII value of characters present in the string.
+    3. WAP to print all the prime numbers between given intervals as input from the user.
