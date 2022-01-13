@@ -76,3 +76,10 @@ List of program:
     1. WAP to store and print 10 random numbers in a list between 100 and 200.
     2. WAP to print the ASCII value of characters present in the string.
     3. WAP to print all the prime numbers between given intervals as input from the user.
+
+Day 10 [Date: 13-01-2022]
+
+List of programs:
+    1. WAP to remove repeated numbers in a list. Print the list with unique value.
+    2. WAP to print the frequency of each element present in the list.
+    3. WAP to print only duplicate elements in the list.
