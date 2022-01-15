@@ -6,3 +6,6 @@ for i in range(10):
     random_number.append(ele)
 
 print('List of Random number:', random_number)
+
+# way 2 to generate random number
+print('Way 2 (One liner code to generate random: )', random.sample(range(100, 200), 10))
