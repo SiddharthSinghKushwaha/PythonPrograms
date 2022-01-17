@@ -13,3 +13,7 @@ else:
         print(b, ' is the largest number')
     else:
         print(c, ' is the largest number')
+
+
+# One line code using in-built function
+print('The largest number is:', max(a, max(b, c)))

@@ -9,6 +9,9 @@ for num in range(n):
     otp = otp + str(ele)
 print('OTP of 4-digit number is:', int(otp))
 
+# way 2: in one line
+print('OTP of 4-digit number is:', random.randint(10**(n-1), 10**n))
+
 # You can also generate OTP of lower-case letters like 'afgy'
 n = 4
 otp_l = ''
