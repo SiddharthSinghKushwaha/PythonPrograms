@@ -83,3 +83,28 @@ List of programs:
     1. WAP to remove repeated numbers in a list. Print the list with unique value.
     2. WAP to print the frequency of each element present in the list.
     3. WAP to print only duplicate elements in the list.
+
+Day 11: [Date: 15-01-2022]
+
+List of programs:
+    1. WAP to print star pattern program (4).
+    2. WAP to print number patter program (5).
+    3. WAP to generate OTP (One Time Code) of 4-digit number only.
+    4. WAP to generate strong password of 8-alphanumerical.
+    5. Updated RandomGenerate.py: added a new method
+
+Day 12: [Date: 16-01-2022]
+
+List of programs:
+    1. Added a new way to generate OTP.
+    2. Added one line code to find largest among 3 numbers. Updated MaxOfThreeNumber.py
+    3. WAP to show the use of some math module.
+    4. Simple Calculator
+
+Day 13: [Date: 18-01-2022]
+
+List of programs:
+    1. Program to Display Fibonacci Sequence Using Recursion
+    2. Program to Find Factorial of Number Using Recursion
+    3. Program to find the sum of the first N natural number using recursion.
+
