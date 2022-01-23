@@ -108,3 +108,17 @@ List of programs:
     2. Program to Find Factorial of Number Using Recursion
     3. Program to find the sum of the first N natural number using recursion.
 
+Day 14: [Date: 22-01-2022]
+
+List of programs:
+    1. Write a program to remove duplicate characters in the given string.
+    2. WAP to check whether a string is a palindrome or not.
+
+Day 15: [Date: 23-01-2022]
+
+List of programs:
+    1. Program to count number of words in a string and print them.
+    2. WAP to print the number of digits, lower case, upper case, spaces, special characters present in a given string.
+    3. WAP to print the number of vowels and consonants in a string.
+    4. WAP to modify the name as signature. Ex: P.C.Kumar
+    5. WAP to print vowels first, then consonants in a string.
