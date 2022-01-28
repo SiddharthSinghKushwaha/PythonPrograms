@@ -122,3 +122,21 @@ List of programs:
     3. WAP to print the number of vowels and consonants in a string.
     4. WAP to modify the name as signature. Ex: P.C.Kumar
     5. WAP to print vowels first, then consonants in a string.
+
+Day 16: [Date: 27-01-22]
+
+List of programs:
+    1. WAP to accept a line of text from the user and modify it such that the last word comes to the first position.
+    2. WAP to accept String from the user and modify it such that the first word and the last word will be interchanged.
+    3. WAP to print the biggest word present in the line of text (string).
+    4. WAP to print the smallest word present in the line of text (String).
+    5. WAP to reverse each word in the string (line of text).
+
+Day 17: [Date: 28-01-22]
+
+List of program:
+    1. WAP to search a word in a string, accepted by the user. If the word is present then print YES along with its position otherwise display an appropriate message.
+    2. WAP to print the frequency of each character in a string (single word).
+    3. WAP to print the input word (String) in alphabetical order.
+    4. WAP to replace a word with a searched word if found otherwise print "Can't replace because searched word not found".
+    5. WAP to accept a line of text and create a new string that stores the original string in reverse wordwise.
