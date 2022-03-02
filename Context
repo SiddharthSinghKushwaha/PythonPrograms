@@ -134,9 +134,44 @@ List of programs:
 
 Day 17: [Date: 28-01-22]
 
-List of program:
+List of programs:
     1. WAP to search a word in a string, accepted by the user. If the word is present then print YES along with its position otherwise display an appropriate message.
     2. WAP to print the frequency of each character in a string (single word).
     3. WAP to print the input word (String) in alphabetical order.
     4. WAP to replace a word with a searched word if found otherwise print "Can't replace because searched word not found".
     5. WAP to accept a line of text and create a new string that stores the original string in reverse wordwise.
+
+Day 18: [Date: 05-02-2022]
+
+List of programs:
+    1. Write a program to search an element in a list using Linear Search.
+    2. Write a program to search an element in a list using Binary Search.
+
+Day 19: [Date: 06-02-2022]
+
+List of programs:
+    1. WAP to sort a list using QUICK Sort.
+    2. WAP to sort a list using MERGE Sort.
+
+Day 20: [Date: 07-02-2022]
+
+List of programs:
+    1. WAP to sort an array using BUBBLE sort.
+    2. WAP to sort an array using SELECTION sort.
+    3. WAP to sort an array using INSERTION sort.
+
+Day 21: [Date: 13-02-2022]
+
+List of programs:
+    1. WAP to calculate the factorial of a number using anonymous function.
+    2. WAP to calculate area of rectangle/square/triangle using variable length arguments.
+
+Day 22: [Date: 02-03-2022]
+
+List of programs (Randomized Algorithms):
+    1. WAP to search an element using Les Vegas method.
+    2. Program to search an element using Monte-Carlo method.
+    3. Program to implement Fermat Test.
+    4. Program to implement Square Root Test.
+    5. Program to implement Miller Rabin Test
+
